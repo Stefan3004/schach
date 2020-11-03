@@ -1,0 +1,25 @@
+
+ .weiss{
+  -fx-background-color: beige
+}
+.schwarz{
+  	-fx-background-color: grey;
+}
+
+
+.zugfeld{
+	-fx-background-image: url("file:C:/Users/Stefan/Desktop/Schach/Kreis.png");
+  	-fx-background-position: center center ;
+  	-fx-background-size: cover;
+}
+
+.bauerW{
+	-fx-background-image: url(file:C:/Users/Stefan/Desktop/Schach/Weiss/Bauer.png);
+  -fx-background-color: beige;
+  -fx-background-position: center center ;
+  -fx-background-size: cover;-fx-image: url(C:/Users/Stefan/Desktop/Schach/Weiss/Bauer.png) 
+}
+
+
+
+
